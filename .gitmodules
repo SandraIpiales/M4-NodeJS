@@ -1,0 +1,3 @@
+[submodule "contactos"]
+	path = contactos
+	url = https://ejemplo.com/repo_contactos.git
